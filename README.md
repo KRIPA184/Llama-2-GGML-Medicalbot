@@ -12,28 +12,4 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
    * Max RAM required - 5.37 GB
    * Use case - New k-quant method. Uses GGML_TYPE_Q4_K for the attention.vw and feed_forward.w2 tensors, GGML_TYPE_Q2_K for the other tensors.
    * **Model:** Know more about model **[Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)**
- - It is trained on the pdf **[The Gale Encyclopedia of Medicine, Volume 1, 2nd Edition, 637-page PDF](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/blob/main/data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf)**, which is a comprehensive medical reference that provides information on a wide range of medical topics. This means that the chatbot is able to answer questions about a variety of medical topics.
- - This is a sophisticated medical chatbot, developed using Llama-2 7B and Sentence Transformers. Powered by **[Langchain](https://python.langchain.com/docs/get_started/introduction)** and **[Chainlit](https://docs.chainlit.io/overview)**, This bot operates on a powerful CPU computer that boasts a minimum of
-    * Operating system: Linux, macOS, or Windows
-    * CPU: Intel® Core™ i3
-    * RAM: **8 GB**
-    * Disk space: 7 GB
-    * GPU: None **(CPU only)**
- - It is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers.
-
-## 🚀 Quickstart
-1. Open Git Bash.
-2. Change the current working directory to the location where you want the cloned directory.
-3. Type `git clone`, and then paste the URL you copied earlier.
-```bash
-   git clone https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot.git
-```
-Press Enter to create your local clone.
-4. Install the pip packages in requirements.txt
- ```bash
-   pip install -r requirements.txt
- ```
-5. Now run it!
-```ternimal
-   chainlit run model.py -w
-
+ - It is trained on the pdf **[The Gale Encyclopedia of Medicine, Volume 1, 2nd Edition, 637-page PDF]
