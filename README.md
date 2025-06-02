@@ -36,28 +36,4 @@ Press Enter to create your local clone.
 5. Now run it!
 ```ternimal
    chainlit run model.py -w
-```
-## 📖 ChatBot Conversession
-### ⛓️Chainlit ver. on [#v1.0.1.dev20230913](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v1.0.1.dev20230913)
-![ChatBot Conversession img-1](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/9af05b2e-1a83-4a7c-aa8c-ed7c60b02e09)
 
-### ⚡Streamlit ver. on [#v2.0.1.dev20231230](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v2.0.1.dev20231230)
-![ChatBot Conversession img-4](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/583002bd-22a7-4ff0-8982-6067c1bcaade)
-
-https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/6756fb69-40c0-4d49-b392-aa6906dca786
-
-![ChatBot Conversession img-2](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/1fede7dd-05e1-49de-bbab-f289cbdb9cd9)
-
-![ChatBot Conversession img-3](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/d10d949f-37e5-4ec4-868d-2e62d8ad69dc)
-
-## 📌 Important Notes
-
-- While powerful, this chatbot isn't a substitute for professional medical advice.
-
-## 🤝 Contributing
-
-Contributions and suggestions are welcome! Feel free to fork the repository, make changes, and submit pull requests for improvements or bug fixes.
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/blob/main/LICENSE).
